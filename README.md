@@ -31,6 +31,7 @@ Focused on port 21 for version detection:
 Result:
 
     21/tcp open ftp vsftpd 2.3.4
+    ![Nmap Scan](nmap-scan.png)
 
 ## 🐛 Vulnerability Identified
 **CVE-2011-2523** – vsftpd 2.3.4 contains a malicious backdoor that was
